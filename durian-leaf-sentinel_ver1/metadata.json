@@ -1,0 +1,8 @@
+
+{
+  "name": "Durian Leaf Sentinel",
+  "description": "An advanced tool for identifying durian leaf diseases using AI. Features include single image analysis, batch processing, real-time camera detection, and Grad-CAM visualizations to highlight affected areas. Provides detailed disease information and management strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
