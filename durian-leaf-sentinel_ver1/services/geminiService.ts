@@ -2,8 +2,6 @@
 import { PredictionResult } from '../types';
 import { DISEASE_CLASSES } from '../constants';
 
-// This is a mock service to simulate calls to a Gemini model.
-// In a real application, you would use the @google/genai library here.
 
 const getRandomItem = <T,>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)];
 
